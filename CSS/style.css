@@ -662,6 +662,7 @@ header {
     }
     .nav-bar .nav-content {
         position: absolute;
+        z-index: var(--z-fixed);
         top: 110%;
         right: 0;
         display: none;
@@ -713,6 +714,7 @@ header {
     }
     .nav-bar .nav-content {
         position: absolute;
+        z-index: var(--z-fixed);
         top: 110%;
         right: 0;
         display: none;

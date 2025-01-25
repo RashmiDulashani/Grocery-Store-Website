@@ -1,8 +1,8 @@
 # 🏪 Grocery-Store-Website
-<p> A simple & responsive Grocery Store Website built using HTML, CSS, and JavaScript.</p>
+<p> A Simple & Responsive Grocery Store Website built using HTML, CSS, and JavaScript.</p>
 
 <div align="center">
-  <img src="Images/README Img.png" height="300px" width="500px">
+  <img src="Images/README Img.png" height="250px" width="500px">
 </div>
 
 <p align="center">📎 Live Demo: <a href="https://rashmidulashani.github.io/Grocery-Store-Website/"> Click Here </a></p>
